@@ -39,7 +39,7 @@ abstract class Inmueble {
     }
 
     //Getters y Setters
-    public int getIndentificadorInmobiliario() {
+    public int getIdentificadorInmobiliario() {
         return identificadorInmobiliario;
     }
     public int getArea() {
